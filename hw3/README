@@ -1,0 +1,2 @@
+Place your compression ratios/comments here.
+My compression algorithm reduced file size of czy.c by 6.72% (2,993 bytes -> 2,792 bytes).  This pales in comparison to the 57.1% reduction in file size by gzip.

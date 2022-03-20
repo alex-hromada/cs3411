@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "xstring": "c",
+        "fcntl.h": "c",
+        "xutility": "c",
+        "ostream": "c"
+    }
+}
